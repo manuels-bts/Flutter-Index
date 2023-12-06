@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter + Material3'),
+        title: const Text('Flutter Widgets +Material3'),
       ),
       body: const _HomeView(),
     );
@@ -62,7 +62,7 @@ class _CustomListTile extends StatelessWidget {
 
         // Navegar a otra pantalla - GoRouter (el favorito)
         context.push(item.link);
-        //context.pushNamed(CardsScreen.name);
+        // context.pushNamed(CardsScreen.name);
       },
     );
   }
