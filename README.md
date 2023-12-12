@@ -8,10 +8,9 @@
 3. [YesNo Chat](https://github.com/manuels-bts/Flutter-Index/tree/main/yes_no_app)
 4. [TikTok](https://github.com/manuels-bts/Flutter-Index/tree/main/tik_tok)
 5. [Widgets](https://github.com/manuels-bts/Flutter-Index/tree/main/widgets_app)
-6. [Widgets Pro](https://github.com/manuels-bts/Flutter-Index/tree/main/widgets_app_pro)
+6. [Widgets Pro - Menu y Temas](https://github.com/manuels-bts/Flutter-Index/tree/main/widgets_app_pro)
+7. [Cinemapedia](https://github.com/manuels-bts/Flutter-Index/tree/main/cinemapedia)
 <!-- 
-6. [Riverpod - Menu y Temas]()
-7. [Cinemapedia App]()
 8. [Forms App - FlutterBloc y Cubits]()
 9. [Push Y Local Notifications]()
 10. [Riverpod App]()
