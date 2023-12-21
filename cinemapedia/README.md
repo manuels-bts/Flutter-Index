@@ -6,28 +6,40 @@ La idea es que comencemos a crear código **reutilizable**, **estructurado** y *
 Puntualmente:
 
 - **Datasources**
-- - _Implementaciones_
-- - _Abastracciones_
+  - _Implementaciones_
+  - _Abastracciones_
 - **Repositorios**
-- - _Implementaciones_
-- - _Abstracciones_
+  - _Implementaciones_
+  - _Abstracciones_
 - **Modelos**
 - **Entidades**
 - **Riverpod**
-- - _Provider_
-- - _StateNotifierProvider_
-- - _Notifiers_
+  - _Provider_
+  - _StateNotifierProvider_
+  - _Notifiers_
 - **Mappers**
 - **Búsquedas y trabajar con el SearchDelegate.**
-- - _SearchDelegate_
-- - _Datasources_
-- - _Repositorios_
-- - _Búsquedas contra TheMovieDB_
-- - _Debouncer_
-- - _Streams_
-- - _Builders_
-- - _DRY_
-- - _Providers_
+  - _SearchDelegate_
+  - _Datasources_
+  - _Repositorios_
+  - _Búsquedas contra TheMovieDB_
+  - _Debouncer_
+  - _Streams_
+  - _Builders_
+  - _DRY (Don't repeat your code)_
+  - _Providers_
+- **Navegación entre tabs**
+- **Preservar estado**
+- **Go_Router**
+  - _Redirect_
+  -  _ShellRoute_
+  - _SubShellRoutes_
+- **Base de Datos** ([Isar Database](https://isar.dev/))
+  - Realizar queries
+  - Almacenar en base de datos
+  - Leer, insertar y borrar
+  - FutureProvider de Riverpod
+
 
 Todo el objetivo es poder establecer los cimientos ordenados de nuestra arquitectura para reforzarlos y verlos en la práctica.  Construcción de un motor de búsqueda completo y robusto para que nuestros usuarios puedan buscar sus películas ahí y preservar búsquedas anteriores 
 
@@ -45,6 +57,11 @@ Para lograr esto se aprendio un poco sobre **scroll horizontal infinito**, **sli
 ## DEV
 1. Copiar el **.env.template** y renombrarlo a **.env**
 2. Cambiar las variables de entorno (TheMovieDB)
+3. Cambios en la entidad **movie (_con isar_)**, hay que ejecutar el siguiente comando
+```
+flutter pub run build_runner build
+```
+
 
 ## Screenshots
 
