@@ -19,6 +19,6 @@ A lo largo del proyecto se trabaja con:
 
 ## Backend
 
-[Teslo Backend - Nest RestServer](https://github.com/manuelsalinas-mx/Flutter-Projects/tree/main/teslo-shop-backend)
+[Teslo Backend - Nest RestServer](https://github.com/manuels-bts/Flutter-Index/tree/main/backend-teslo-shop)
 
 
