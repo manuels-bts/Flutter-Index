@@ -11,7 +11,7 @@
 6. [Widgets Pro - Menu y Temas](https://github.com/manuels-bts/Flutter-Index/tree/main/widgets_app_pro)
 7. [Cinemapedia](https://github.com/manuels-bts/Flutter-Index/tree/main/cinemapedia)
 8. [Forms - FlutterBloc y Cubits](https://github.com/manuels-bts/Flutter-Index/tree/main/forms_app)
-9. [Push Y Local Notifications]() ***Pendiente**
+9. [Push Y Local Notifications]() ***Pendiente** (_se recorren hasta el final Section 21-24_)
 10. [Docker Teslo Backend](https://github.com/manuels-bts/Flutter-Index/tree/main/backend-teslo-shop)
 10. [Teslo App](https://github.com/manuels-bts/Flutter-Index/tree/main/teslo_app)
 
