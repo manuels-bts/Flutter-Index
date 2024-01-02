@@ -19,8 +19,8 @@
     - Primer flutter app robusta para mostrar listados de peliculas y detalles introduciendo los fundamentos basicos de arquitectura Clean y alimentando las vistas a traves de Providers.
 8. [Forms - FlutterBloc y Cubits](https://github.com/manuels-bts/Flutter-Index/tree/main/forms_app)
     - Introducción básica a los gestores de estado Cubit y BloC ademas de ver como manejar campos de formulario de manera tradicional.
-9. [Push Y Local Notifications]() ***Pendiente** (_se recorren hasta el final Section 21-24_)
-    - Se monta entorno para enviar y recibir notificaciones push, se exploran las notificaciones locales y como se manejan en base a la informacion extraida de ellas.
+9. [Push Y Local Notifications](https://github.com/manuels-bts/Flutter-Index/tree/main/push_app) 
+    - Se configura **Firebase** para enviar notificaciones push, recepcion y lectura de ellas en la app asi como se exploran las notificaciones locales y como se manejan en base a la informacion extraida de ellas.
 10. [Docker Teslo Backend](https://github.com/manuels-bts/Flutter-Index/tree/main/backend-teslo-shop)
     - Se hace el setup de un backend de productos para la aplicacion final.
 11. [Teslo App](https://github.com/manuels-bts/Flutter-Index/tree/main/teslo_app)
