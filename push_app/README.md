@@ -23,6 +23,7 @@ Manejo de Notificaciones Push en Android / iOS.
 
 ## Demo
 
-![push](https://github.com/manuelsalinas-mx/Flutter-Projects/assets/110424672/581ca6b7-d977-4f18-9118-c8f92b051257)
+![push](https://github.com/manuels-bts/Flutter-Index/assets/116088500/91ef1086-93c5-47ed-af0c-46f7fba1213b)
+
 
 
