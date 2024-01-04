@@ -23,7 +23,10 @@ Manejo de Notificaciones Push en Android / iOS.
 
 ## Demo
 
-![push](https://github.com/manuels-bts/Flutter-Index/assets/116088500/91ef1086-93c5-47ed-af0c-46f7fba1213b)
+| Screen            | Demo                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| **Permissions and Tests** | ![push](https://github.com/manuels-bts/Flutter-Index/assets/116088500/91ef1086-93c5-47ed-af0c-46f7fba1213b) |
+
 
 
 
